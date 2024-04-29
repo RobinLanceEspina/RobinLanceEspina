@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RobinLanceEspina
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Dev
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me robinlance.espina@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
